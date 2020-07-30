@@ -1,0 +1,9 @@
+Class,Total_Functions,Total_variables
+Citrus,3,2
+Fruit,3,1
+FruitTest,1,6
+Kharbooza,2,1
+Kinu,2,1
+Malta,2,1
+Melon,3,2
+Tarbooz,2,1
